@@ -1,0 +1,10 @@
+/home/jimmy/JIMMY/DEV/QtScrcpy/CMakeFiles/edit_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/CMakeFiles/rebuild_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/edit_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/rebuild_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/edit_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/rebuild_cache.dir
+/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen.dir

@@ -45,7 +45,7 @@
 #define COMMON_CODEC_OPTIONS_DEF ""
 
 #define COMMON_CODEC_NAME_KEY "CodecName"
-#define COMMON_CODEC_NAME_DEF ""
+#define COMMON_CODEC_NAME_DEF "OMX.google.h264.encoder"
 
 // user config
 #define COMMON_RECORD_KEY "RecordPath"

@@ -294,7 +294,7 @@ void Dialog::on_updateDevice_clicked()
 
 void Dialog::on_startServerBtn_clicked()
 {
-    outLog("start server...", false);
+    outLog("--> Jimmy start server...", false);
 
     // this is ok that "original" toUshort is 0
     quint16 videoSize = ui->maxSizeBox->currentText().trimmed().toUShort();

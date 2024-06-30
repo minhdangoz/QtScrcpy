@@ -1,0 +1,280 @@
+{
+	"BUILD_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpy_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeLists.txt",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Multimedia/Qt5MultimediaConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5Multimedia/Qt5MultimediaConfig.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5X11Extras/Qt5X11ExtrasConfigVersion.cmake",
+		"/lib/x86_64-linux-gnu/cmake/Qt5X11Extras/Qt5X11ExtrasConfig.cmake",
+		"/usr/share/cmake-3.22/Modules/FindThreads.cmake",
+		"/usr/share/cmake-3.22/Modules/CheckLibraryExists.cmake",
+		"/usr/share/cmake-3.22/Modules/CheckIncludeFile.cmake",
+		"/usr/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake",
+		"/usr/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake",
+		"/usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.22/Modules/FindPackageMessage.cmake",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/res/res.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/audio/audiooutput.h",
+			"MU",
+			"PZONOMFGYT/moc_audiooutput.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/fontawesome/iconhelper.h",
+			"MU",
+			"7653U4RL2C/moc_iconhelper.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.h",
+			"MU",
+			"7WSARK52GL/moc_groupcontroller.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.h",
+			"MU",
+			"RZRAGMB46M/moc_qyuvopenglwidget.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/dialog.h",
+			"MU",
+			"UYX5XTB5RZ/moc_dialog.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/toolform.h",
+			"MU",
+			"UYX5XTB5RZ/moc_toolform.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/videoform.h",
+			"MU",
+			"UYX5XTB5RZ/moc_videoform.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/uibase/keepratiowidget.h",
+			"MU",
+			"B2KWJJ5A6K/moc_keepratiowidget.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/uibase/magneticwidget.h",
+			"MU",
+			"B2KWJJ5A6K/moc_magneticwidget.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/config.h",
+			"MU",
+			"KH43KSYMFX/moc_config.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/mousetap/mousetap.h",
+			"MU",
+			"A6WZYQ7OMG/moc_mousetap.cpp",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.h",
+			"MU",
+			"A6WZYQ7OMG/moc_xmousetap.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpy_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpy_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_X11EXTRAS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/fontawesome",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/uibase",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/render",
+		"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpyCore/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtX11Extras",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtMultimedia",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/QtScrcpy_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 20,
+	"PARSE_CACHE_FILE" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/CMakeFiles/QtScrcpy_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/audio/audiooutput.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/fontawesome/iconhelper.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/groupcontroller/groupcontroller.cpp",
+			"MU",
+			null
+		],
+		[ "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/main.cpp", "MU", null ],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/render/qyuvopenglwidget.cpp",
+			"MU",
+			null
+		],
+		[ "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/dialog.cpp", "MU", null ],
+		[ "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/toolform.cpp", "MU", null ],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/ui/videoform.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/uibase/keepratiowidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/uibase/magneticwidget.cpp",
+			"MU",
+			null
+		],
+		[ "/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/config.cpp", "MU", null ],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/mousetap/mousetap.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jimmy/JIMMY/DEV/QtScrcpy/QtScrcpy/util/mousetap/xmousetap.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

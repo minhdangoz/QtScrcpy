@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a1234b64dd2a429599a63ae400c5f4b9 QtScrcpy/CMakeFiles/QtScrcpy_autogen
+925bb902143998dcd34499eb1b1723cd QtScrcpy/QtScrcpyCore/CMakeFiles/QtScrcpyCore_autogen
+532957e6746239120368b25ca9d4fadd QtScrcpy/QtScrcpy_autogen/PNK5WDWK6L/qrc_res.cpp
