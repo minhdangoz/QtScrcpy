@@ -150,6 +150,7 @@ void Dialog::initUI()
 
     ui->maxSizeBox->addItem("640");
     ui->maxSizeBox->addItem("720");
+    ui->maxSizeBox->addItem("800");
     ui->maxSizeBox->addItem("1080");
     ui->maxSizeBox->addItem("1280");
     ui->maxSizeBox->addItem("1920");
