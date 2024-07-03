@@ -18,6 +18,7 @@ void installTranslator();
 static QtMsgType g_msgType = QtInfoMsg;
 QtMsgType covertLogLevel(const QString &logLevel);
 
+// Jimmy
 int main(int argc, char *argv[])
 {
     // set env

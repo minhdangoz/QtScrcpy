@@ -23,6 +23,6 @@ bool WinUtils::setDarkBorderToWindow(const HWND &hwnd, const bool &d)
     const bool ok = SUCCEEDED(DwmSetWindowAttribute(hwnd, DwmwaUseImmersiveDarkMode, &darkBorder, sizeof(darkBorder)))
                     || SUCCEEDED(DwmSetWindowAttribute(hwnd, DwmwaUseImmersiveDarkModeBefore20h1, &darkBorder, sizeof(darkBorder)));
     if (!ok)
-        qWarning("%s: Unable to set dark window border.", __FUNCTION__);
+        qWarning("%s: Unable to set dark window border. shit", __FUNCTION__);
     return ok;
 }
